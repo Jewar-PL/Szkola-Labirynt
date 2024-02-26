@@ -2,12 +2,6 @@
 
 Prosta gra zrobiona jako projekt na lekcje, wzorowana na [internetowym klasyku](https://screamer.wiki/The_Maze) 🦭
 
-## Zrzuty ekranu
-
-![Menu główne](docs/menu.png)
-![Poziom](docs/poziom.png)
-![Przegrana](docs/przegrana.png)
-
 ## Użyte biblioteki
 - [SFML](https://www.sfml-dev.org/) (branch 2.6.x)
 
@@ -43,3 +37,9 @@ Uruchom aplikację
 **Ta gra została stworzona jako projekt szkolny, więc jakość kodu mogła być dużo lepsza, ale robiłem to na czas i z pewnymi ograniczeniami.**
 
 **Pozdrawiam profil Technik Programista 🦭**
+
+## Zrzuty ekranu
+
+![Menu główne](docs/menu.png)
+![Poziom](docs/poziom.png)
+![Przegrana](docs/przegrana.png)
