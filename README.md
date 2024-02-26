@@ -23,6 +23,10 @@ Wejdź do folderu
 cd Szkola-Labirynt
 ```
 
+> **Uwaga:** Kompilacja dla różnych kompilatorów i generatorów może różnie wyglądać, więc proszę mieć to na uwadze.
+
+> Używając konfiguracji z [Visual Studio Code](https://code.visualstudio.com/) projekt jest budowany przez [Ninja](https://ninja-build.org/)
+
 Skompiluj aplikację z pomocą CMake
 ```bash
 cmake -S . -B build
@@ -45,3 +49,5 @@ Uruchom aplikację
 ![Menu główne](docs/menu.png)
 ![Poziom](docs/poziom.png)
 ![Przegrana](docs/przegrana.png)
+
+## [Licencja](LICENSE.md)
