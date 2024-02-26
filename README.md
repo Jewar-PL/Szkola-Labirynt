@@ -1,5 +1,7 @@
 # Szkoła - Labirynt
 
+![Menu główne](docs/menu.png)
+
 Prosta gra zrobiona jako projekt na lekcje, wzorowana na [internetowym klasyku](https://screamer.wiki/The_Maze) 🦭
 
 ## Użyte biblioteki
